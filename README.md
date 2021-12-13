@@ -2,7 +2,7 @@
 
 利用原生js实现的h5小游戏
 
-**demo**：[线上地址](https://github.com/z1511676208/h5-plants-vs-zombies)
+**demo**：[线上地址](https://z1511676208.github.io/h5-plants-vs-zombies/)
 
 
 ## Features：
